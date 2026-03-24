@@ -15,7 +15,7 @@ I’m a Computer Science student with a strong interest in software development 
 
 ### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/hajar-natiq-895257271
-- Email: evahajar2004@gmail.com
+
 
 
 
