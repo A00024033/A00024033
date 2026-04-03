@@ -1,35 +1,34 @@
-## Hi there, I’m Hajar ✨
+### Hi there, I’m Hajar ✨
 
-I’m a Computer Science student with a strong interest in software development and problem-solving. I enjoy building practical projects and continuously improving my technical skills.
+CS (AI & Software Engineering) @ University of Roehampton · VP of the AI & Computing Society · MOI competitor
 
-### 🚀 What I’m currently working on
-- Strengthening my Python fundamentals and problem-solving skills  
-- Building academic and personal projects in C++, Python, Java, and SQL  
-- Developing my GitHub portfolio and preparing for internships
+---
 
-### 🛠 Tools & Technologies
-- Languages: Python, C++, Java, SQL  
-- Tools: Git, GitHub, VS Code, IntelliJ IDEA  
-- Databases: MySQL / MariaDB  
-- OS: Windows, Linux (Ubuntu, Debian)
+**what I've built**
 
-### 📫 How to reach me
-- LinkedIn: www.linkedin.com/in/hajar-natiq-895257271
+→ **[Rational Taxi Agent](https://github.com/A00024033/AI-agent)** — intelligent agent navigating a grid map of London using BFS, DFS & A\*, with Bayesian inference for passenger uncertainty modelling · Python, NumPy, Matplotlib  
+→ **[E-commerce Database Analysis](https://github.com/A00024033/E-commerce-Database-Analysis)** — complex SQL scripts for reporting, aggregation & query optimisation on a real-world dataset · SQL  
+→ **[Veterinary Management System](https://github.com/A00024033/veterinary-management-system)** — full clinic system with role-based access, appointment scheduling & pet records · C++, OOP  
 
+---
 
+**stack**
+```
+Languages   Python · JavaScript · SQL · C++ · HTML/CSS
+Frontend    React.js · Next.js · Tailwind CSS
+Backend     Node.js · Express.js · MySQL · PostgreSQL
+AI/ML       scikit-learn · Bayesian Inference · Neural Networks · NLP
+Tools       Docker · Git · Linux · Jupyter
+```
 
+---
 
-<!--
-**A00024033/A00024033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a bit about me**
 
-Here are some ideas to get you started:
+I'm a second-year CS student specialising in AI and software engineering. Outside coursework I co-founded and run my university's AI & Computing Society — we run ML workshops, hands-on projects, and build a space for people who actually want to make things. I've competed in the Moroccan Olympiads in Informatics, speak four languages (EN · FR · AR · ES), and I'm currently looking for a summer 2026 internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**find me**
+
+🌐 [portfolio](https://a00024033.github.io/portfolio/) &nbsp;·&nbsp; 💼 [linkedin](https://linkedin.com/in/hajar-natiq-895257271) &nbsp;·&nbsp; 📧 evahajar2004@gmail.com
