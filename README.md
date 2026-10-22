@@ -70,4 +70,4 @@ Tools       Docker · Git · GitHub Actions · Linux · pytest · Jupyter
 
 ---
 
-<p align="center"><i>Currently: building my final year project on detecting where users struggle with web forms, and working through Blind 75.</i></p>
+<p align="center"><i>Currently: building my final year project on detecting where users struggle with web forms.</i></p>
